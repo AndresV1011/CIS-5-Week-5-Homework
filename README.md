@@ -4,7 +4,8 @@
 **Theme:** The program chooses
 
 
-## Demo video (required)
+## Demo video: Here is my video!
+https://drive.google.com/file/d/1f59_eG-UUPbt8Z7sQo_oH06R87XwBgY6/view?usp=sharing
 
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
@@ -55,10 +56,10 @@ Your rules and messages can be different. The shape is the same: two inputs, an 
 |------:|-----------:|--------|
 | -3 | 90 | invalid score |
 | 72 | 90 | pass |
-| 72 | 40 | warn — attendance too low |
-| 55 | 90 | fail |
-| 69 | 90 | ? (your edge) |
-| 70 | 90 | ? (your edge) |
+| 72 | 40 | FailL: Attendance requirement not met |
+| 55 | 90 | Fail: Score requirement not met! |
+| 69 | 90 | Fail: Score requirement not met |
+| 70 | 74 | Fail: Attendance requirement not met |
 
 One row per path, plus your edge values. The grader reads the table, then runs two rows to check.
 
